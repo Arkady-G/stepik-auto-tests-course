@@ -1,3 +1,3 @@
-# stepik-auto-tests-course
-# Задания к курсу Stepik
+# Stepik-Autotests-course
+Задания к курсу Stepik
 В этом репозитории хранятся задания по автоматизации тестирования.
